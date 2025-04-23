@@ -15,7 +15,7 @@
     left: 0;
     right: 0;
     height: 60px;
-    background-color: #4A3AFF;
+    background-color: #3647f8;
     color: white;
     display: flex;
     align-items: center;
@@ -56,6 +56,11 @@
     width: 100%;
     border-radius: 50%;
     margin-bottom: 10px;
+  }
+
+  .cee-pic{
+    width: 100%;
+    margin: 20px;
   }
   
   aside h2 {
@@ -118,4 +123,13 @@
   }
 
 
-  #
+  #about{
+    margin-bottom:20px;
+  }
+
+  #aboutt p{
+    margin: 10px;
+    font-size: larger;
+    margin-right:100px;
+    
+  }
